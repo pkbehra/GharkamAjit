@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@drawable/ic_baseline_login_24"
+            android:title="Login" />
+        <item
+            android:id="@+id/nav_aboutus"
+            android:icon="@drawable/ic_baseline_error_outline_24"
+            android:title="About Us" />
+        <item
+            android:id="@+id/nav_cleaningservices"
+            android:icon="@drawable/ic_baseline_wash_24"
+            android:title="Cleaning Services" />
+        <item
+            android:id="@+id/nav_acservices"
+            android:icon="@drawable/ic_baseline_settings_24"
+            android:title="AC Services" />
+        <item
+            android:id="@+id/nav_pestontrol"
+            android:icon="@drawable/ic_baseline_pest_24"
+            android:title="Pest Control" />
+
+        <item
+            android:id="@+id/nav_ourblog"
+            android:icon="@drawable/ic_baseline_blog_24"
+            android:title="Our Blog" />
+
+        <item
+            android:id="@+id/nav_contactus"
+            android:icon="@drawable/ic_baseline_call_24"
+            android:title="Contact Us" />
+        <item
+            android:id="@+id/nav_email"
+            android:icon="@drawable/ic_baseline_email_24"
+            android:title="Email" />
+
+        <item
+            android:id="@+id/nav_Termsuse"
+            android:icon="@drawable/ic_outline_report_gmailerrorred_24"
+            android:title="Terms of Use" />
+
+        <item
+            android:id="@+id/nav_privacy"
+            android:icon="@drawable/ic_baseline_privacy_24"
+            android:title="Privacy Policy" />
+
+        <item
+            android:id="@+id/nav_facebook"
+            android:icon="@drawable/whatsup"
+            android:title="Facebook" />
+
+        <item
+            android:id="@+id/nav_Instagram"
+            android:icon="@drawable/whatsup"
+            android:title="Instagram" />
+
+        <item
+            android:id="@+id/nav_Linkedin"
+            android:icon="@drawable/linkedin"
+            android:title="LinkedIn" />
+        <item
+            android:id="@+id/nav_whatsup"
+            android:icon="@drawable/whatsup"
+            android:title="WhatsApp" />
+        <item
+            android:id="@+id/nav_twitter"
+            android:icon="@drawable/twitter"
+            android:title="Twitter" />
+
+
+    </group>
+</menu>
